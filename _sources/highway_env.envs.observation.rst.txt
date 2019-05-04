@@ -1,0 +1,7 @@
+highway\_env.envs.observation module
+====================================
+
+.. automodule:: highway_env.envs.observation
+    :members:
+    :undoc-members:
+    :show-inheritance:
